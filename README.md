@@ -8,4 +8,4 @@ How do I exploit it?
 Changing the Region of an call is serversided as it changes not for only one person but the entire call including everyone else. 
 Making a simple loop that abuses the api functions that control the region of an vc will instantly take down the voice call
 
-Discord uses threads for most api functions including region api, if we were to spam change the region at once it would overload discord as it attempts to connect to mltiple regions as once causing a loop of errors. Which results in a crash.
+Discord uses threads for most api functions including region api, if we were to spam change the region at once it would overload discord as it attempts to connect to mltiple regions as once causing a loop of errors. Which results in a crash
